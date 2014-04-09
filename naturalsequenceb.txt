@@ -1,0 +1,2 @@
+hello naturalsequenceb.txt
+something to write
