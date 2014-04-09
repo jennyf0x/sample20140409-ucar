@@ -1,7 +1,7 @@
 #!/bin/sh
 
-# This script counts to 10!
-for i in {1..10}
+# This script counts to 11!
+for i in {1..11}
 do
 echo $i
 done
