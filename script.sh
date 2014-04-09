@@ -6,4 +6,4 @@ do
 echo $i
 done
 
-
+# But now I'm adding a comment to script.sh
