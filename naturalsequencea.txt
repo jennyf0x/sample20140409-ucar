@@ -1,2 +1,3 @@
 hello naturalsequencea.txt
 something to write
+Another line of text
